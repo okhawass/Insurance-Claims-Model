@@ -25,3 +25,6 @@ Used RandomOverSampler, OneHotEncoder, StandardScaler and ColumnTransformer for 
 Tested accuracy of model when using PCA, Ada Boost, Gradient Boost, and XG Boost clustering algorithms to conclude that combining PCA and XG Boost provides the highest accuracy.
 The model predicts the likelihood of a claim with 90% accuracy.
 
+
+Benefits: Now that insurance companies can accurately predict which policyholders are likely to file for a claim, they can charge higher premiums to those who pose a higher risk.
+Having a highly accurate predicted number of total claims will allow insurers to set accurate claim budgets and maintain accurate budgets for profit margins. Profits for insurance companies will be maximized as they can more effectively calculate their claim budgets with this highly accurate model.
