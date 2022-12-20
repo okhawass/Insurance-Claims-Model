@@ -10,7 +10,7 @@ The lack of an accurate model to predict claim likelihood poses a problem to com
 
 
    The Dataset: 
-Our dataset contains ~ 58,000 instances with 44 columns containing information about the driver, region, and vehicle. The last column states whether the  policyholder filed a claim.
+The dataset contains ~ 58,000 instances with 44 columns containing information about the driver, region, and vehicle. The last column states whether the  policyholder filed a claim.
 
 
   The Solution: 
